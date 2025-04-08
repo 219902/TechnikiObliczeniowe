@@ -1,2 +1,2 @@
 # Techniki Obliczeniowe
-przyklady - z wykladow!
+przyklady - z wykladow!!
